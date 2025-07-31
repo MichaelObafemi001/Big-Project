@@ -104,3 +104,24 @@ background-color: #5548c8;
 color: white;
 background-color: #3f3b9d;
 }
+
+.footer {
+    text-align: center;
+}
+
+.social-icons {
+    width: 20px;
+}
+
+.cta-card {
+    text-align: center;
+    color: #ffffff;
+background-color: #5548c8;
+border-radius: 20px;
+padding: 5px 10px;
+width: 1000px;
+}
+
+.cta-header {
+    color: #ffffff;
+}
