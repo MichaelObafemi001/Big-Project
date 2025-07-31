@@ -1,8 +1,9 @@
-
-body {
+* {
+    box-sizing: border-box;
+    color: #212529;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-color: #212529;
 }
+
 
 h1 {
     text-align: center;
@@ -55,6 +56,8 @@ ul {
 .purple-header {
     background-color: blueviolet;
     color: #ffffff;
+    padding : 20px;
+    border-radius: 5px;
 }
 
 .black-button {
